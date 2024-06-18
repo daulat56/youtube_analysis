@@ -1,4 +1,4 @@
-# Data Engineering YouTube Analysis Project by Darshil Parmar
+# Data Engineering YouTube Analysis Project by Daulat
 
 ## Overview
 
@@ -25,10 +25,3 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
-## Architecture Diagram
-<img src="architecture.jpeg">
-
-## Complete Tutorial
-I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
-
-https://youtu.be/yZKJFKu49Dk
